@@ -11,6 +11,7 @@ namespace hallo_github
             
             Console.WriteLine("TEST");
             Console.WriteLine("TEST2");
+            Console.WriteLine("haha");
         }
     }
 }
