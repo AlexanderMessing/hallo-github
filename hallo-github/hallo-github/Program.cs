@@ -8,6 +8,7 @@ namespace hallo_github
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("TEST");
+            Console.WriteLine("TEST2");
         }
     }
 }
